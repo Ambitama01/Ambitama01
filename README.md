@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frontend Development**
 
-- 💬 Ask me about **Java, Python, C**
+- 💬 Ask me about **Java, Python, C, JavaScript**
 
 - 📫 How to reach me **ambitama.01@gmail.com**
 
